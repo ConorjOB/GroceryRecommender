@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29446508639",
+    "firebase_url": "https://groceryrecommender-f167c.firebaseio.com",
+    "project_id": "groceryrecommender-f167c",
+    "storage_bucket": "groceryrecommender-f167c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29446508639:android:81486cce595beaf7",
+        "android_client_info": {
+          "package_name": "com.example.mynam.groceryrecommender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29446508639-6fftq2lrl7al1kkip09adciaudnfs61i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mynam.groceryrecommender",
+            "certificate_hash": "40c9ae516ecbac6d668d1d0229f6d13cf0b2915b"
+          }
+        },
+        {
+          "client_id": "29446508639-4bg92gnemtuc7ullqovsjjanmp6b3eul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-ZmeyAiUw6L0s65QXjtf6mWwiDy9bCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29446508639-4bg92gnemtuc7ullqovsjjanmp6b3eul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
